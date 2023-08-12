@@ -30,12 +30,6 @@ Welcome to the repository showcasing the **Exploratory Analysis of 2021 Crime St
 
 - The predictive modeling using the Adaboost classifier can aid law enforcement in anticipating potential crime hotspots and taking preventive actions.
 
-## Usage and Interactivity
-
-To explore our findings and interactive visualizations, follow the [Analysis Report Link](link-to-your-analysis-report) and gain insights into the crime landscape of Denver City in 2021.
-
-Feel free to interact with the visualizations, delve into the trends, and understand the predictive potential of our machine learning model.
-
 ## Future Developments
 
 In the future, we plan to:
