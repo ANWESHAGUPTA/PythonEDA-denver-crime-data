@@ -4,6 +4,9 @@
 
 Welcome to the repository showcasing the **Exploratory Analysis of 2021 Crime Statistics in Denver City**. This project delves into comprehensive data analysis to uncover patterns and trends in crime incidents, with a focus on understanding the impact of COVID-19 and the MeToo movement. Moreover, we have employed predictive modeling to estimate the likelihood of potential crimes using real-time locations, utilizing the Adaboost classifier machine learning model.
 
+![Adaboost](https://github.com/ANWESHAGUPTA/PythonEDA-denver-crime-data/assets/39123992/1d22d9d8-d1e5-4eaa-bc80-9f03427e5c64)
+
+
 ## Project Highlights
 
 - **Exploratory Analysis**: Our analysis dives deep into the 2021 crime statistics for Denver City, aiming to identify recurring crime patterns across different categories and geographical areas.
